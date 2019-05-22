@@ -1,0 +1,13 @@
+C:\Users\Nick\source\repos\TheaterService\DB\bin\Debug\DB.dll.config
+C:\Users\Nick\source\repos\TheaterService\DB\bin\Debug\DB.dll
+C:\Users\Nick\source\repos\TheaterService\DB\bin\Debug\DB.pdb
+C:\Users\Nick\source\repos\TheaterService\DB\bin\Debug\EntityFramework.dll
+C:\Users\Nick\source\repos\TheaterService\DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\source\repos\TheaterService\DB\bin\Debug\Json.dll
+C:\Users\Nick\source\repos\TheaterService\DB\bin\Debug\EntityFramework.xml
+C:\Users\Nick\source\repos\TheaterService\DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\source\repos\TheaterService\DB\bin\Debug\Json.pdb
+C:\Users\Nick\source\repos\TheaterService\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\TheaterService\DB\obj\Debug\DB.csproj.CopyComplete
+C:\Users\Nick\source\repos\TheaterService\DB\obj\Debug\DB.dll
+C:\Users\Nick\source\repos\TheaterService\DB\obj\Debug\DB.pdb
